@@ -16,18 +16,8 @@
   <img src="https://www.gitskins.com/api/section/stats?username=kowshik-poojary&theme=github-dark" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=kowshik-poojary&theme=github-dark" alt="kowshik-poojary featured projects" />
-</p>
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=kowshik-poojary&theme=github-dark" alt="kowshik-poojary social links" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kowshik-poojary-a226932ab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kowshikpoojary06@gmail.com) 
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kowshik-poojary)
-
----
-
-<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
